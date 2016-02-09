@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737962_0009.png"; bbox 0 0 2053 2485; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 448 564 1448 620">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 448 564 1448 620">
+     <span class='ocr_line' id='line_1_1' title="bbox 448 564 1448 620; baseline 0.005 -15"><span class='ocrx_word' id='word_1_1' title='bbox 448 565 515 605; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 545 564 674 606; x_wconf 85' lang='lat' dir='ltr'>Loco</span> <span class='ocrx_word' id='word_1_3' title='bbox 706 565 918 614; x_wconf 85' lang='lat' dir='ltr'><strong>QUODAM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 945 567 978 607; x_wconf 88' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1010 566 1211 609; x_wconf 85' lang='lat' dir='ltr'><strong>CATONE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1241 569 1448 620; x_wconf 86' lang='grc' dir='ltr'><strong>ΜΑΙΟΒΕ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 830 733 1013 764">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 830 733 1013 764">
+     <span class='ocr_line' id='line_1_2' title="bbox 830 733 1013 764; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 830 752 833 753; x_wconf 36' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 882 733 945 764; x_wconf 87' lang='lat' dir='ltr'><strong>UBI</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 963 734 1013 764; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 296 825 1613 969">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 296 825 1613 969">
+     <span class='ocr_line' id='line_1_3' title="bbox 296 825 1613 969; baseline -0.001 -1"><span class='ocrx_word' id='word_1_10' title='bbox 296 888 780 969; x_wconf 68' lang='lat' dir='ltr'><strong>ANlMORUM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 852 825 1613 969; x_wconf 68' lang='lat' dir='ltr'><strong>{MMORTAMTATE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 839 1420 1045 1449">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 839 1420 1045 1449">
+     <span class='ocr_line' id='line_1_4' title="bbox 839 1420 1045 1449; baseline -0.005 0"><span class='ocrx_word' id='word_1_12' title='bbox 839 1420 1045 1449; x_wconf 80' lang='lat' dir='ltr'>SSSSSSSS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 654 1545 1226 1620">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 654 1545 1226 1620">
+     <span class='ocr_line' id='line_1_5' title="bbox 654 1545 1226 1620; baseline 0.002 -2"><span class='ocrx_word' id='word_1_13' title='bbox 654 1545 921 1619; x_wconf 71' lang='lat' dir='ltr'><strong>cszENs</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 960 1571 1226 1620; x_wconf 70' lang='lat' dir='ltr'><strong>sumnus·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
